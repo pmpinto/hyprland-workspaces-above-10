@@ -13,6 +13,9 @@ Hyprland supports unlimited workspaces, but the default setup limits you to 10 (
 2. Type a number (e.g., "88")
 3. Press Enter → you're now in workspace 88
 
+## Demo
+https://github.com/user-attachments/assets/0ea4c25f-5e60-4055-9d95-d6075231f069
+
 ## Installation
 1. Copy the `system-workspaces-10-plus` script
 2. Make it available in your `$PATH`
